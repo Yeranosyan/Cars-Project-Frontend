@@ -1,5 +1,8 @@
 # Cars-Project-Frontend 2022
-# HTML, CSS, JS
+# Tech Stack:
+- HTML
+- CSS
+- JavaScript
 # Demo
 - https://yeranosyan.github.io/Cars-Project-Frontend/
 # Practice with libraries, customization.

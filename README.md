@@ -4,7 +4,7 @@
 - CSS
 - JavaScript
 # Demo
-- https://yeranosyan.github.io/Cars-Project-Frontend/
+- https://yeranosyan.github.io/Frontend-Car-Trade-Project/
 # Practice with libraries, customization.
 - https://scrollrevealjs.org/
 - https://swiperjs.com/get-started

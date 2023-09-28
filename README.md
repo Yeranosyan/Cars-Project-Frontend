@@ -1,8 +1,7 @@
 # Cars-Project-Frontend 2022
-# Tech Stack:
-- HTML
-- CSS
-- JavaScript
+The site presentation focuses on Car Sales. I worked on the HTML semantics to ensure a readable document structure, incorporating meta tags that guide search engines on whether to index the page and provide additional information about its content. A dark theme was chosen for the site's style.
+
+I integrated the entire site with a JavaScript library called ScrollReveal, which simplifies animating elements as they enter and exit the viewport. I configured this functionality using the provided documentation. When incorporating sections featuring cars, I needed to display them in a catalogue-like view. To achieve this, I utilized the Swiper library, which facilitated creating a neat and subtle slideshow effect. Additionally, I employed the MixItUp library to filter car categories based on brand, enabling users to selectively view specific car models.
 # Demo
 - https://yeranosyan.github.io/Frontend-Car-Trade-Project/
 # Practice with libraries, customization.
